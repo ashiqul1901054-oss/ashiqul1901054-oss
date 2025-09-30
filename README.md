@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Ashiqul Islam Sazzad  
+# Hello, I'm Ashiqul Islam Sazzad  
 
 🎓 **BSc in Veterinary Science**  
+🎓 **Ms in Microbiology**
 🔬 Aspiring Researcher in **One Health, Antimicrobial Resistance (AMR), and Viral Diseases**  
 💡 Exploring **Bioinformatics | Machine Learning | Phylogenomics | Vaccine Design**  
 
@@ -32,9 +33,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: your_email_here@gmail.com  
+- 📧 Email: ashiqul.1901054@student.bau.edu.bd  
 - 🔗 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter/X](https://x.com/)  
+ 
 
 ---
 
